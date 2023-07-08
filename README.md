@@ -1,4 +1,4 @@
-# E-commerence
+# E-Commerce Website
 
 How to run the Online Shoppinh Portal using PHP and MySQL
 
