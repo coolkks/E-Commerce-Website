@@ -14,7 +14,7 @@ How to run the Online Shoppinh Portal using PHP and MySQL
 
 6. Import shopping file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/shopping (frontend)
+7. Run the script http://localhost/shopping (frontend)
 
 8. Link for admin Panel : http://localhost/shopping/admin
 
